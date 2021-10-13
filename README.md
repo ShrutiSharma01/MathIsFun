@@ -9,7 +9,7 @@ To start playing:
     
     **or**
 
-  - Visit the link: [https://verma-anushka.github.io/Mathify/](https://verma-anushka.github.io/Mathify/).
+  - Visit the link: [].
     
     **or**
 
